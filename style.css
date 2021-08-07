@@ -4,7 +4,7 @@
 }
 body {
   font-family: "Times New Roman", serif;
-  background-image: url("bg.jpeg");
+  background-image: url("https://raw.githubusercontent.com/SaiAnilKumarDeyyala/SpeedTypingGame/master/bg.jpeg");
   display: flex;
   justify-content: center;
   align-items: center;
